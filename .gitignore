@@ -1,0 +1,32 @@
+# Ignore object files
+*.o
+
+# Ignore shared object files
+*.so
+
+# Ignore compiled executables
+*.exe
+*.out
+
+# Ignore backup and temporary files
+*~
+*.bak
+
+# Ignore debug files
+*.log
+*.dbg
+*.dSYM/
+
+# Ignore COBOL listing and intermediate files
+*.lst
+*.int
+*.cbl~
+
+# Ignore dependency files
+*.dep
+*.mod
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+.DS_Store
